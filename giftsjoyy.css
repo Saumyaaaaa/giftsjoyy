@@ -1,0 +1,44 @@
+
+*{
+    
+    padding: 0;
+    margin:0;
+    color:white;
+}
+#navbar{
+    
+    background-color: rgb(255, 0, 123);
+
+    position: static;
+    
+}
+#id{
+    font-size: 10px;
+}
+button{
+background-color:#ff0099;
+font-size: 15px;
+}
+#logo{
+    color:white;
+    font-size: 50px;
+    
+}
+body{
+    background-image: url("rose.jpg");
+    }
+a{
+margin-right: 200px;
+font-size: 20px;
+}
+h1{
+    background-color: #ff0099;
+    padding-left: 250px;
+    margin:50px;
+
+}
+footer{
+    text-align: center;
+}
+		
+		
